@@ -5,8 +5,9 @@ Pfat, (Protein Function Annotation Tool), a novel software that predicts the fun
 Requirements 
 ============
 
-1.Python 2.7 or higher
-2.Internet accession
+1) Python 2.7 or higher
+
+2) Internet accession
 
 
 Installation
