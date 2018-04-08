@@ -16,6 +16,14 @@ Installation
 None
 
 
+Working systems
+============
+
+1) UNIX/Mac
+
+2) Linux
+
+
 How to run ?
 ============
 
