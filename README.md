@@ -29,5 +29,3 @@ NOTE:
 2) The input sequence must be regular amino acids sequences.
 
 3) All the protein seqeunces can be found in the file "$pfat_HOME/result/*.fasta"
-
-
